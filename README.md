@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Rust, SQL and more surrounding .NET  
   
 
-- ✉️ Contact me on Discord: devin#8415 `(938880040169525358)`  
+- ✉️ Contact: Check my profile's about me/bio
   
 
 <br/>  
