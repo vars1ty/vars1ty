@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vars1ty&column=-1&theme=juicyfresh" alt="vars1ty" /></a> </p>
 
-- 🔭 I’m currently working on video games, system utilities (see [Hybrid](https://github.com/vars1ty/HybridBar), libraries and so on.
+- 🔭 I’m currently working on video games, system utilities (see [Hybrid](https://github.com/vars1ty/HybridBar)), libraries and so on.
 
 - 🌱 I’m currently learning more surrounding .NET, Rust, several different languages, databases and performance.
 
