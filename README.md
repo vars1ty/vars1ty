@@ -3,13 +3,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vars1ty&column=-1&theme=juicyfresh" alt="vars1ty" /></a> </p>
 
-- 🔭 I’m currently working on **video games**, **block game cheats**, **system utilities** and so on
+- 🔭 I’m currently working on video games, system utilities (see [Hybrid](https://github.com/vars1ty/HybridBar), libraries and so on.
 
-- 🌱 I’m currently learning more surrounding **.NET**, **Rust**, **Java** and **Databases**
+- 🌱 I’m currently learning more surrounding .NET, Rust, several different languages, databases and performance.
 
-- 💬 Discord **varsity#9346**
-
-- 💬 Session **05f1c94c6536a01a1533768d38dc746dce1583307db90a0a943080fefbe6292d07**
+- 💬 [Socials](https://varsity.lol)
 
 - ⛰️ Codeberg: [administrator](https://codeberg.org/administrator)
 
