@@ -1,6 +1,6 @@
 <h1 align="center">🌿 varsity</h1>
 <p align=center>
-🧬 I'm currently working on Linux Software such as Hybrid, Video Games and so forth<br>⛰️ Codeberg: administrator<br>🪁 Socials can be found <a href="https://varsity.lol/" target="_blank">here</a>
+⛰️ Codeberg: administrator<br>🪁 <a href="https://varsity.lol/" target="_blank">Socials</a>
  </p>
 
 
