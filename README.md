@@ -2,6 +2,9 @@
 <p align=center>
 ⛰️ Codeberg: administrator<br>🪁 <a href="https://varsity.lol/" target="_blank">Socials</a>
  </p>
+ <p align=center>
+ ✉️ E-Mail: <a href="mailto:refined@skiff.com" target="_blank">refined@skiff.com</a>
+ </p>
 
 
 <h2 align="center">💻 Tech Stack:</h2>
