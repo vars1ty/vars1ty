@@ -1,6 +1,6 @@
 <h1 align="center">🌿 varsity</h1>
 <p align=center>
-⛰️ Codeberg: administrator<br>🪁 <a href="https://varsity.lol/" target="_blank">Socials</a><br>✉️ E-Mail: <a href="mailto:refined@skiff.com" target="_blank">refined@skiff.com</a>
+⛰️ Codeberg: administrator<br>🪁 <a href="https://segfault.life/" target="_blank">Socials and more</a><br>✉️ E-Mail: <a href="mailto:refined@skiff.com" target="_blank">refined@skiff.com</a>
  </p>
 
 
