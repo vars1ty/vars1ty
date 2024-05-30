@@ -6,6 +6,10 @@
   <img height="150" src="https://cdn.discordapp.com/avatars/938880040169525358/0027aba1561436c95b25836f1426d345.webp?size=4096"  />
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vars1ty.vars1ty&"  />
+</div>
+
 ###
 
 <p align="center">⚙️ Rust Programmer from 🇸🇪 Sweden</p>
