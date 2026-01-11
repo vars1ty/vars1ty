@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I'm currently learning **networking** (+ raw sockets), **security**, **optimization** and **obfuscation** through **Rust**<br>🧰 I have experience writing in **Rust**, **C#**, **Java**, **VB.NET**, and some amounts of **C** & **Python**<br>🌐 I speak (and type) in both **Swedish** and **English**<br>🎮 I've written game prototypes using **Unity**, **GameMaker** and **Godot** in the past<br>🖥️ I mainly run Linux and **UEFI-Spoofed Windows** through **QEMU**
+🛠️ I'm currently learning **networking**, **security**, **optimization**, **obfuscation** and **reverse engineering** through **Rust** and **Ghidra**<br>🧰 I have experience writing in **Rust**, **C#**, **Java**, **VB.NET**, and some amounts of **C** & **Python**<br>🌐 I speak (and type) in both **Swedish** and **English**<br>🎮 I've written game prototypes using **Unity**, **GameMaker** and **Godot** in the past<br>🖥️ I mainly run Linux and **UEFI-Spoofed Windows** through **QEMU**
 
 
 ## 🌐 Socials:
