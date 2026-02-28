@@ -1,27 +1,99 @@
-# 💫 About Me:
-🛠️ I'm currently learning **networking**, **security**, **optimization**, **obfuscation** and **reverse engineering** through **Rust** and **Ghidra**<br>🧰 I have experience writing in **Rust**, **C#**, **Java**, **VB.NET**, and some amounts of **C** & **Python**<br>🌐 I speak (and type) in both **Swedish** and **English**<br>🎮 I've written game prototypes using **Unity**, **GameMaker** and **Godot** in the past<br>🖥️ I mainly run Linux and **UEFI-Spoofed Windows** through **QEMU**
+<h1 align="center">📍 vrs</h1>
+<h3 align="center">
+  <sup><i>a.k.a. Tim</i></sup>
+</h3>
 
+### Self-taught Rust developer
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/brain_nullptr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gh@resistant.ch) 
+- 🔭 I'm currently working on hobby projects, like **reverse engineering projects**, **UDP networking** and **database management**
+- 🌱 I'm currently learning **reverse engineering** and **low-level Rust**
+- ⚒️ I mainly write code in **Rust**, but have written extensive amounts in:
+  - Java
+  - C#
+- ⌨️ I've written smaller **3D**-and-**2D** game prototypes before, and went to **Futuregames**
+- 📫 How to reach me:
+  - E-Mail: **gh@resistant.ch**
+  - Discord: **`fatnullptr`**
+  - Signal: **`ptr.01`**
 
-# 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vars1ty&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vars1ty&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vars1ty&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">Direct Socials:</h3>
+<p align="left">
+  <a href="https://github.com/vars1ty" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vars1ty" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/brain_nullptr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brain_nullptr" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@easily-offended" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="easily-offended" height="30" width="40" />
+  </a>
+  <a href="https://discord.com/users/1189177003778256947" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fatnullptr" height="30" width="40" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vars1ty&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=gtk" alt="gtk" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/>
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<h3 align="left">My GitHub Statistics</h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vars1ty&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=vars1ty&theme=dracula&hide_border=true" alt="Stats" />
+  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vars1ty&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="Stat icons" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=vars1ty&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">My Programming Languages</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=vars1ty&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
