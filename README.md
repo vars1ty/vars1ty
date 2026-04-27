@@ -3,7 +3,7 @@
   <sup><i>a.k.a. Tim</i></sup>
 </h3>
 
-I'm a self-taught Rust programmer from Sweden, with additional experience usin VB.NET, C#, Java and smaller amounts of C.
+I'm a self-taught Rust programmer from Sweden, with additional experience using VB.NET, C#, Java and smaller amounts of C.
 
 I've been programming since I was about 12/13, primarily writing game cheats, general software, smaller game prototypes and networking (UDP, TCP, QUIC) for some applications.
 
